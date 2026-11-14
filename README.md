@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://poke-alerts.com/assets/images/apple-touch-icon.png" width="96" alt="Poke Alerts">
+  <img src=".github/logo.png" width="96" alt="Poke Alerts">
   <br><br>
   Real-time restock, price drop, and deal alerts for Pokémon TCG collectors.
   <br><br>
